@@ -4,5 +4,8 @@
 # Github là kho tài nguyên tuyệt vời
 
 # Github giúp chứng tỏ bạn là ai
+# Git cho phép user share code, text fragments hay bất kỳ thông tin nào với các dev khác.
+
+
 
 
