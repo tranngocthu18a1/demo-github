@@ -3,5 +3,7 @@
 # Github giúp cải thiện kỹ năng code
 # Github là kho tài nguyên tuyệt vời
 
+# Git cho phép user share code, text fragments hay bất kỳ thông tin nào với các dev khác.
+
 
 
